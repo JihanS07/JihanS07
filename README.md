@@ -1,4 +1,4 @@
-# Hi, I'm Jihan
+# Hi, I'm Jihaan
 
 **CS + Economics @ University of Rochester**
 
@@ -11,8 +11,8 @@ machine learning, algorithms, data, and computer systems.
 
 Currently learning:
 - Data Mining & Machine Learning
-- Algorithms & Data Structures
 - Systems and Computer Architecture
+- Operating Systems
 
 I like building things from first principles, understanding how they work,
 and turning what I learn into experiments and software.
@@ -23,7 +23,7 @@ and turning what I learn into experiments and software.
 An information retrieval system built from first principles, progressing from
 inverted-index search to ranked retrieval and semantic search.
 
-**Python · Information Retrieval · Algorithms · NLP**
+**Python · Data Structures · BM25 · Vector Search · NLP · Information Retrieval**
 
 ### ⚽ English Premier League Predictor
 An end-to-end machine learning pipeline for predicting match outcomes using
