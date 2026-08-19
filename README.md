@@ -25,12 +25,6 @@ inverted-index search to ranked retrieval and semantic search.
 
 **Python · Data Structures · BM25 · Vector Search · NLP · Information Retrieval**
 
-### ⚽ English Premier League Predictor
-An end-to-end machine learning pipeline for predicting match outcomes using
-historical data, feature engineering, Elo ratings, and multiple ML models.
-
-**Python · scikit-learn · Machine Learning · Data Analysis**
-
 ## Currently Exploring
 
 **Machine Learning · Information Retrieval · AI Systems · Algorithms · Systems**
