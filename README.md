@@ -3,8 +3,7 @@
 Economics and Computer Science at the University of Rochester, class of 2028.
 
 I like building things from first principles and measuring whether they actually work. Right now
-that means LLM agents and how to evaluate them. Before that it was data pipelines, classic ML and
-systems programming in C.
+that means LLM agents and how to evaluate them. 
 
 ## Projects
 
