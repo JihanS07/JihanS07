@@ -1,35 +1,37 @@
-# Hi, I'm Jihaan
+# Jihaan Sakariya
 
-**CS + Economics @ University of Rochester**
+Economics and Computer Science at the University of Rochester, class of 2028.
 
-Interested in **Machine Learning, Computational Research, and Systems**.
+I like building things from first principles and measuring whether they actually work. Right now
+that means LLM agents and how to evaluate them. Before that it was data pipelines, classic ML and
+systems programming in C.
 
-## About Me
+## Projects
 
-I'm a Computer Science and Economics student exploring the intersection of
-machine learning, algorithms, data, and computer systems.
+**[text_to_sql_agent](https://github.com/JihanS07/text_to_sql_agent)**
+A tool-using LLM agent that answers plain-English questions about a SQL database, written on the
+raw Claude API with no agent framework. Most of the repo is the evaluation harness: 500 questions
+from the BIRD benchmark, an ablation where each configuration changes one thing, confidence
+intervals and paired significance tests.
+`Python` `LLM agents` `Evals` `SQLite` `Inspect AI`
 
-Currently learning:
-- Data Mining & Machine Learning
-- Systems and Computer Architecture
-- Operating Systems
+**[retrieval-engine](https://github.com/JihanS07/retrieval-engine)**
+A small search engine built from an inverted index up: TF-IDF, BM25, SVD semantic search and a
+hybrid of the two.
+`Python` `Information retrieval` `NumPy`
 
-I like building things from first principles, understanding how they work,
-and turning what I learn into experiments and software.
+**[English-Premier-League-Predictor](https://github.com/JihanS07/English-Premier-League-Predictor)**
+Match outcome prediction with 15+ engineered features (Elo ratings, form, rest days, head to head)
+and logistic regression, random forest and gradient boosting models.
+`Python` `scikit-learn` `Feature engineering`
 
-## What I'm Building
+**[mysh](https://github.com/JihanS07/mysh)**
+A Unix shell in C: process creation with `fork` and `execvp`, pipes and I/O redirection.
+`C` `Systems`
 
-### 🔎 Retrieval Engine
-An information retrieval system built from first principles, progressing from
-inverted-index search to ranked retrieval and semantic search.
+## Elsewhere
 
-**Python · Data Structures · BM25 · Vector Search · NLP · Information Retrieval**
+This summer I worked as a data science research assistant in Copenhagen, building a pipeline that
+merged GPS bus telemetry, transit schedules and census data across 1,274 census tracts.
 
-## Currently Exploring
-
-**Machine Learning · Information Retrieval · AI Systems · Algorithms · Systems**
-
-## GitHub
-
-I'm using this space to document what I'm learning, the systems I'm building,
-and my progression toward ML/AI engineering.
+Email: jihansakariya33@gmail.com
