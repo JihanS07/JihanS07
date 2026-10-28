@@ -21,11 +21,14 @@ hybrid of the two.
 
 **[English-Premier-League-Predictor](https://github.com/JihanS07/English-Premier-League-Predictor)**
 Match outcome prediction with 15+ engineered features (Elo ratings, form, rest days, head to head)
-and logistic regression, random forest and gradient boosting models.
+and logistic regression, random forest and gradient boosting models. On seasons the models never
+saw, the best one gets 55% accuracy against 46% for always picking the home team. I got there after
+finding and fixing two data leaks that had pushed the score close to 100%.
 `Python` `scikit-learn` `Feature engineering`
 
 **[mysh](https://github.com/JihanS07/mysh)**
-A Unix shell in C: process creation with `fork` and `execvp`, pipes and I/O redirection.
+A Unix shell in C built on `fork`, `execvp`, `pipe` and `dup2`. It runs pipelines of any length
+with redirection and quotes, and CI runs its 27 tests on Linux and macOS, also under AddressSanitizer.
 `C` `Systems`
 
 ## Elsewhere
